@@ -55,13 +55,6 @@ jupyter Data Preprocessing.ipynb
 jupyter notebook Model Training.ipynb
 ```
 
-## Overview
-
-Repository contains:
-- Downloaded data from the UCI Bank Marketing dataset
-- Data analysis code
-- Visualizations in Jupyter notebook
-
 ### Data
 
 The original data can be found at http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset
